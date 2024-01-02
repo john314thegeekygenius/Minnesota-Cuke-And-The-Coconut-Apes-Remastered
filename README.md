@@ -10,7 +10,7 @@ This project needs the following SDL2 libraries
   SDL2  
   SDL2_Mixer  
   SDL2_Net (I should remove the dependency of this)  <br>
-It also needs a game engine created by me that is not released or open source.<br>
+It also needs a game engine created by me <br>
   
 # Files Needed
 This recration uses the same files as the original game, however it also needs a few extra files
